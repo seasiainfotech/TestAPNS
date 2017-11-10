@@ -42,6 +42,7 @@
 }
 
 
+
 - (void)application:(UIApplication *)application didRegisterUserNotificationSettings:(UIUserNotificationSettings *)notificationSettings {
     if (notificationSettings.types != UIUserNotificationTypeNone) {
         NSLog(@"didRegisterUser");
