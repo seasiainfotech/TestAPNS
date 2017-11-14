@@ -21,7 +21,7 @@
 
 -(void)myNewMethod
 {
-    
+    //Milestone 1
 }
 
 - (void)didReceiveMemoryWarning {
